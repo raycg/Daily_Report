@@ -18,8 +18,7 @@
 
 - 計畫相關技術的實體展示
    * Test Automation rAPP, Energy Saving rAPP, OAI nFAPI開發
-- 標準 (根據歐盟計畫定義，開源程式碼已列入標準範疇)
-https://www.techpolicy.press/how-the-eus-tech-sovereignty-package-finally-puts-open-source-to-the-test/
+- 標準 ([根據歐盟計畫定義，開源程式碼已列入標準範疇](https://www.techpolicy.press/how-the-eus-tech-sovereignty-package-finally-puts-open-source-to-the-test/))
    * 參與OSC TOC/SMO會議，貢獻O2開源程式碼
    * 參與OAI/Duranta，貢獻nFAPI程式碼
    * 加入OCUDU Ecosystem Foundation，貢獻OCUDU + Pegatron整合手冊
