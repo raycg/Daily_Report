@@ -1,7 +1,17 @@
 # Daily_Report
 ## To Do
 1. [NTU Talk](https://u.pcloud.link/publink/show?code=XZonf4JZBfRv3YQDSq4hJoui9x7HF0NIl7mV), (DL: 10/1)
-2. 6G Project Contributions (DL: 9/28, DONE)
+2. BMW:
+   - Funding:
+      - Daily Report: 2000 NTD/month
+      - Project: + 
+3. Ian’s paper (DL: 10/30)
+4. Rico’s paper (DL: 10/30)
+5. Bimo’s paper
+6. Digital Twin Project Report (DL: 11/30)
+7. EU-TW Project Proposal (DL: 11/30)
+8. NSTC Project Proposal (DL: 12/15)
+9. 6G Project Contributions (DL: 9/28, **DONE**)
 - 技術落地（產學合作、技術移轉、技術服務）
   
 |計畫名稱|合作廠商|執行期間|
@@ -31,7 +41,6 @@
    * 9/22 參加ITRI的歐盟計畫討論會議
 - 學術與技術活動（主辦或參與研討會）
    * 參與The 5th International Conference on Mobile Military Maritime IT Convergence (ICMIC)並發表兩篇論文
-- 論文發表
 
 **Journal:**
    * Analytical Model for Triad Random Access Strategy for IEEE 802.11be Systems, IEEE Transaction on Mobile Computing, Nov. 2026
@@ -41,10 +50,3 @@
    * Evaluating power control strategies for UORA in IEEE 802.11be systems with capture effect, ICMIC, 2026
    * Contract-based Agentic Intent Framework for Network Slicing in O-RAN, INFOCOM 2026 6G AI-RAN Workshop
    * Jamming Attacks on the Random Access Channel in 5G and B5G Networks, IEEE WCNC 2026
-
-3. EU-TW Project
-4. Ian’s paper (DL: 10/30)
-5. Rico’s paper (DL: 10/30)
-6. Bimo’s paper 
-8. Digital Twin Project Report
-9. 
