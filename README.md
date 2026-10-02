@@ -14,7 +14,9 @@
 4. EU-TW Project Proposal (DL: 11/30)
 5. NSTC Project Proposal (DL: 12/15)
 - Meeting with Karl, Henry, Lucy and Chynna, ask for confirmation (10/1, **DONE**)
-- RACH for NTN
+- [RACH for NTN](https://u.pcloud.link/publink/show?code=kZiDE8JZkpjXTrgKCau4ETqVfWbwdYH3JTmy)
+   - 2-step RACH for NTN
+   - 4-step RACH for NTN 
 6. ITRI 計畫結案 (DL: 10/30)
 - 請款收據 9/30, **DONE**  
 11. [NTU Talk](https://u.pcloud.link/publink/show?code=XZonf4JZBfRv3YQDSq4hJoui9x7HF0NIl7mV), (DL: 10/1, **DONE**)
