@@ -17,8 +17,15 @@
 - Meeting with Karl, Henry, Lucy and Chynna, ask for confirmation (10/1, **DONE**)
 - [RACH for NTN](https://u.pcloud.link/publink/show?code=kZiDE8JZkpjXTrgKCau4ETqVfWbwdYH3JTmy)
    - 2-step RACH for NTN
-   - 4-step RACH for NTN 
-6. ITRI 計畫結案 (DL: 10/30)
+   - 4-step RACH for NTN
+- Potential Cooperations:
+   - Obuda Univ: OSC SMO/RIC + LoRaWAN
+   - Hanguang Univ: OSC SMO/RIC
+   - SUTD: OSC SMO/RIC
+   - EU-TW: OSC SMO/RIC for ISAC
+   - WNC: RACH for NTN
+   - SYSCOM: NTN Simulator 
+7. ITRI 計畫結案 (DL: 10/30)
 - 請款收據 9/30, **DONE**  
 11. [NTU Talk](https://u.pcloud.link/publink/show?code=XZonf4JZBfRv3YQDSq4hJoui9x7HF0NIl7mV), (DL: 10/1, **DONE**)
 12. 6G Project Contributions (DL: 9/28, **DONE**)
