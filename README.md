@@ -1,18 +1,19 @@
 # Daily_Report
 ## To Do
-1. Obuda University Visit: (DL: 10/18~25)
+1. A+ Project Review (DL: 10/2)
+2. Obuda University Visit: (DL: 10/18~25)
    - Host: Joy
    - Guest House Reservation: **DONE**
       - Arrive on Oct 18. and leave on Oct 25.
          - Single room: Zsolt Bringye
          - Twin room: Rita Fleiner, Eszter Kail
          - Twin room: Szabolcs Szepesi, Alex Boros
-2. 「[TASTI 2026 台灣太空國際年會暨產業博覽會](https://tasti2026.conf.tw/site/page53.aspx?pid=901&sid=1691&lang=en)」，(DL: 11/8~11)
+3. 「[TASTI 2026 台灣太空國際年會暨產業博覽會](https://tasti2026.conf.tw/site/page53.aspx?pid=901&sid=1691&lang=en)」，(DL: 11/8~11)
    - Registration: (**DONE**)
    - Hotel reservation: (**DONE**)
-3. Digital Twin Project Report (DL: 11/30)
-4. EU-TW Project Proposal (DL: 11/30)
-5. NSTC Project Proposal (DL: 12/15)
+4. Digital Twin Project Report (DL: 11/30)
+5. EU-TW Project Proposal (DL: 11/30)
+6. NSTC Project Proposal (DL: 12/15)
 - Meeting with Karl, Henry, Lucy and Chynna, ask for confirmation (10/1, **DONE**)
 - [RACH for NTN](https://u.pcloud.link/publink/show?code=kZiDE8JZkpjXTrgKCau4ETqVfWbwdYH3JTmy)
    - 2-step RACH for NTN
