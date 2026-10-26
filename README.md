@@ -1,6 +1,7 @@
 # Daily_Report
 ## To Do
 1. A+ Project Review (DL: 10/2)
+   - [Open CPX 1.0](https://www.simpletechtrend.com/post/open-cpx-spec-1-0-connector-teardown)
 2. Master Ranking
 3. 「[TASTI 2026 台灣太空國際年會暨產業博覽會](https://tasti2026.conf.tw/site/page53.aspx?pid=901&sid=1691&lang=en)」，(DL: 11/8~11)
    - Registration: (**DONE**)
