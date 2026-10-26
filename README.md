@@ -1,18 +1,12 @@
 # Daily_Report
 ## To Do
 1. A+ Project Review (DL: 10/2)
-2. Obuda University Visit: (DL: 10/18~25)
-   - Host: Joy
-   - Guest House Reservation: **DONE**
-      - Arrive on Oct 18. and leave on Oct 25.
-         - Single room: Zsolt Bringye
-         - Twin room: Rita Fleiner, Eszter Kail
-         - Twin room: Szabolcs Szepesi, Alex Boros
+2. Master Ranking
 3. 「[TASTI 2026 台灣太空國際年會暨產業博覽會](https://tasti2026.conf.tw/site/page53.aspx?pid=901&sid=1691&lang=en)」，(DL: 11/8~11)
    - Registration: (**DONE**)
    - Hotel reservation: (**DONE**)
-4. Digital Twin Project Report (DL: 11/30)
-5. EU-TW Project Proposal (DL: 11/30)
+4. III Digital Twin Project Report (DL: 11/30)
+5. ITRI EU-TW Project Proposal (DL: 11/30)
 6. NSTC Project Proposal (DL: 12/15)
 - Meeting with Karl, Henry, Lucy and Chynna, ask for confirmation (10/1, **DONE**)
 - [RACH for NTN](https://u.pcloud.link/publink/show?code=kZiDE8JZkpjXTrgKCau4ETqVfWbwdYH3JTmy)
@@ -25,10 +19,19 @@
    - EU-TW: OSC SMO/RIC for ISAC
    - WNC: RACH for NTN
    - SYSCOM: NTN Simulator 
-7. ITRI 計畫結案 (DL: 10/30)
+
+## Done
+1. Obuda University Visit: (DL: 10/18~25)
+   - Host: Joy
+   - Guest House Reservation: **DONE**
+      - Arrive on Oct 18. and leave on Oct 25.
+         - Single room: Zsolt Bringye
+         - Twin room: Rita Fleiner, Eszter Kail
+         - Twin room: Szabolcs Szepesi, Alex Boros
+2. ITRI 計畫結案 (DL: 10/30)
 - 請款收據 9/30, **DONE**  
-11. [NTU Talk](https://u.pcloud.link/publink/show?code=XZonf4JZBfRv3YQDSq4hJoui9x7HF0NIl7mV), (DL: 10/1, **DONE**)
-12. 6G Project Contributions (DL: 9/28, **DONE**)
+3. [NTU Talk](https://u.pcloud.link/publink/show?code=XZonf4JZBfRv3YQDSq4hJoui9x7HF0NIl7mV), (DL: 10/1, **DONE**)
+4. 6G Project Contributions (DL: 9/28, **DONE**)
 - 技術落地（產學合作、技術移轉、技術服務）
   
 |計畫名稱|合作廠商|執行期間|
